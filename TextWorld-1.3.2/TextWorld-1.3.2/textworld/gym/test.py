@@ -1,0 +1,2 @@
+import gym
+gym --help
